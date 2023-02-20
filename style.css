@@ -1,0 +1,24 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Verdana;
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA; /*Blue*/
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063; /*Dark gray*/
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+
+.liste-episodes {
+  font-style: italic;
+  background-color: #df806c;
+  border: 2px solid #b76959;
+}
